@@ -1,2 +1,2 @@
 # veepeenet-telegram
-VeePeeNET Telegram based on XTBot
+VeePeeNET Telegram Bot based on XTBot
